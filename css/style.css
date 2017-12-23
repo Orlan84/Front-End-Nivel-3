@@ -477,3 +477,21 @@ form .form-control {
 
 .navbar-collapse {
   max-height: none !important; }
+
+/*===============================================
+                        Scroll-Spy
+================================================*/
+.vesco-top-nav ul.navbar-nav li.active a {
+  color: #34C6D3; }
+
+/*===============================================
+                        Top Button
+================================================*/
+.btn-back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  font-size: 22px;
+  padding: 3px 15px;
+  border-radius: 0;
+  display: none; }
